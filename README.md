@@ -10,5 +10,6 @@ Página web creada para la universidad, con información sobre lugares turístic
 - Contacto
 
 ## 🌐 Ver página funcionando
-👉 [https://anamariamorey2807.github.io/modulo01-Becalos](https://anamariamorey2807.github.io/modulo01-Becalos)/index.html
+👉 [https://anamariamorey2807.github.io/modulo01-Becalos](https://anamariamorey2807.github.io/modulo01-Becalos)
+
 
